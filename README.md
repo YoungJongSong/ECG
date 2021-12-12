@@ -27,13 +27,13 @@ electrocardiogram
 │   └── test
 ```
 
-$python preprocessing.py
+$ python preprocessing.py
 done! When this is printed, it is finished.
 
 ### Test
-$python test.py
+$ python test.py
 
 
 If you want to train model
 ### Training
-$python main.py
+$ python main.py
