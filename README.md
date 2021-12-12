@@ -11,7 +11,7 @@ pip install scipy
 
 
 ## Preparing the dataset
-'''
+```
 electrocardiogram
 ├── data
 │   ├── train
@@ -25,7 +25,8 @@ electrocardiogram
 │   ├── validation
 │   │
 │   └── test
-'''
+```
+
 $python preprocessing.py
 done! When this is printed, it is finished.
 
