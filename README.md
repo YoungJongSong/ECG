@@ -10,8 +10,8 @@ pip install matplotlib
 pip install scipy
 
 
-##Preparing the dataset
-
+## Preparing the dataset
+'''
 electrocardiogram
 ├── data
 │   ├── train
@@ -25,14 +25,14 @@ electrocardiogram
 │   ├── validation
 │   │
 │   └── test
-
+'''
 $python preprocessing.py
+done! When this is printed, it is finished.
 
-### Training and Test
-When "done!" is printed
-
+### Test
 $python test.py
 
-If you want to train model
 
+If you want to train model
+### Training
 $python main.py
